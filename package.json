@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "sporton-monorepo-intern",
   "private": true,
   "scripts": {
     "build": "turbo run build",
